@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
+		"title": "王润林的个人网站 - Wang RunLin's Personal Website",
+		"description": "Author:LeoWang,Category:Personal WebSite",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Wang RunLin's Personal Website",
+		"subtitle": "王润林的个人网站",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Leo Wang",
+		"signature": "Code & Life",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -26,17 +26,17 @@
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
-				"icon": "xiaolian",
-				"text": "About"
+				"href": "wiki/",
+				"icon": "wikiicon",
+				"text": "Wiki"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:alin.run@foxmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/wangrunlin",
 				"icon": "github",
 				"text": "Github"
 			}
