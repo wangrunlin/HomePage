@@ -2,7 +2,8 @@
 	"head": {
 		"title": "王润林的个人网站 - Wang RunLin's Personal Website",
 		"description": "Author:LeoWang,Category:Personal WebSite",
-		"favicon": "favicon.ico"
+		"favicon": "favicon.ico",
+		"googleAnalytics": "G-294LTNQCQR"
 	},
 	"intro": {
 		"title": "Wang RunLin's Personal Website",
